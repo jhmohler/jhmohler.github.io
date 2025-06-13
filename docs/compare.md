@@ -10,5 +10,5 @@
      
 5. Repeat steps 2 through 4 on the bar under **'Second band or artists:'**.
 
-6. The line chart beneath the two bars will update to show the albums from both bands or artists by rating over time. The first artist’s albums will be connected by a red line, where the second artist’s will be connected by a blue line.
+The line chart beneath the two bars updates to show the albums from both bands or artists by rating over time. The first artist’s albums are connected by a red line, where the second artist’s are connected by a blue line.
     <img src= "/images/task13.png" alt="where to click" style="border: 2px solid grey;" width="450">

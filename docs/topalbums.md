@@ -6,5 +6,5 @@
 
 3. Hold down the mouse on the left circle and slide it to select a starting bound as well. You cannot select a year later than the right circle.
 
-4. The table below will display the highest rated album from each year within the range, as well as the album’s artist or band.
+The table below displays the highest rated album from each year within the range, as well as the album’s artist or band.
     <img src= "/images/task2.png" alt="where to click" style="border: 2px solid grey;" width="350">
