@@ -11,4 +11,5 @@ This task will require R and RStudio to complete. (More info in [FAQ](faq.md))
 3. While ‘**app.R**’ is open, click the ‘**Run app**’ button in the top right.
 
     <img src= "/images/task26.png" alt="where to click" style="border: 2px solid grey;" width="350">
-4. RStudio will create a new window containing your My Favorite Albums page.
+
+RStudio will create a new window containing your My Favorite Albums page.
