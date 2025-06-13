@@ -15,4 +15,4 @@
      
 The new list below displays the rated albums from the chosen band or artist sorted by release year, as well as their rating. Below the list is the number of albums from that band or artist that have been ranked, as well as the average rating of an album from that band or artist.
 
-    <img src= "/images/task6.png" alt="where to click" style="border: 2px solid grey;" width="350">
+&nbsp; <img src= "/images/task6.png" alt="where to click" style="border: 2px solid grey;" width="350">
