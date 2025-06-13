@@ -14,4 +14,4 @@
      
 The new list below displays the ranked albums released in your selected year and their artist or band. The albums will be sorted by their ranking from best to worst.
 
-&nbsp; <img src= "/images/task9.png" alt="where to click" style="border: 2px solid grey;" width="350">
+    <img src= "/images/task9.png" alt="where to click" style="border: 2px solid grey;" width="350">
